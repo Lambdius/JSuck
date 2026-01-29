@@ -1,2 +1,2 @@
-run:
+suck:
 	node ./index.js

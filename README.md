@@ -5,7 +5,7 @@ We are preparing for a hypothetical ban on latin letters and arabic numbers. I a
 
 Run:
 ```sh
-make run
+make suck
 ```
 
 I first encountered this style of code writing thanks to these tasks:
